@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Post #2 6/27 9:04
+title: My Second Post 6/27 9:04
 ---
 
 Welcome Blog to my second post on my account I am beginning to gain a better understanding of how I am supposed to add new posts and how to operate my blog. Yesterday me and the Cohort went to Computer History Museum and I truly enjoyed it. The wide selection of facts that it had to offer was amazing and getting to see the evolution of technology and computers was great to see. Afterwards we went to dine in at In-N-Out, it was my second time eating there and they surely didn't dissapoint, the secret menu is a cool feature that I think more fast food chains should incorporate to get more business.
