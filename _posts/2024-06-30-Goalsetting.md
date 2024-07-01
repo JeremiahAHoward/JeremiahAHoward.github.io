@@ -8,4 +8,4 @@ Good Afternoon today's blog will be focusing on goalsetting for the remainder of
 [A Poem I Like About Exploring](https://poemanalysis.com/helen-hunt-jackson/outward-bound-by-helen-hunt-jackson/)
 
 An Image Correlating a bunch of terms with Open-Source:
-[_config.yml](/images/openSourceWordPIc.png)
+[_config.yml](/images/openSourceWordPic.png)
