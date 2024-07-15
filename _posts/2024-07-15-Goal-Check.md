@@ -12,5 +12,3 @@ Currently one of my biggest goals that I have imposed on myself for the recent w
 The recent weeks have taught me a whole bunch about open source and computer science as a whole, I have downloaded a bunch of new programs onto my laptop that I'm sure will be useful in my future comp sci career, learned and interacted with a lot of beneficial tools the open source contributors may use, opened and evaluated real life open source projects, and much more. It's a little unfortunate that the progrma will be ending soon but I'm so glad to have taken in everything that was taught and given to me whilst I was on this trip.
 
 IN-N-Out Burger from the past weekend: ![_config.yml](/images/image_50432769.JPG)
-
-<img src="/images/image_50432769.JPG" alt="Burger Pic" width="500" height"300">
