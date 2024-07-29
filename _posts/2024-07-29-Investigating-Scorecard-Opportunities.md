@@ -1,0 +1,6 @@
+---
+layout: post
+title: Investigating OpenSSF
+---
+
+Hey blog back again with another post, the past week we have become more comfortable with dealing with documentations issues and submitting prs. Now as a group we are starting to decide where should we focus our energy for the following weeks. When researching more about OpenSSF and where I would like to contribute I fovused a maority of my two hours using the "Labs" page and trying to gwt through each of the "Sample Available Labs". I wanted to gain a better understanding of the labs because I may be interested in creating a lab of my own, granted trying to create a new lab for OpenSSF will reauire more context about the project. As far as the next step that will be needed from me if I'm serious about creating a lab, would be for me to contact David A. Wheeler in regard to contributing to ossf, after contacting Mr. Wheeler and gaining his approval on working on a specific lab it is required from us to then create the lab instructions and correct answers and finally implement the lab by using checker.js basically creating the lab HTML file. After searching around more on the Labs website I found a roadmap of the labs that the project is looking to iimplement and if your are interested in creating a lab they linked the README for the list of labs and you can pick one thats not assigned.
